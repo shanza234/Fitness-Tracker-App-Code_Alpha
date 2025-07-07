@@ -1,4 +1,5 @@
-Fitness Tracker - Creative UI
+Fitness Tracker
+
 Welcome to the Fitness Tracker app! This Flutter application offers a creative and intuitive user interface for tracking fitness activities. It is designed to be fully responsive and works seamlessly on mobile, web, and tablet devices.
 
 ## Features
